@@ -1,5 +1,5 @@
 ---
-title: "Getting started"
+title: "Embrace your inner caveman"
 description: "Hit the ground running."
 date: "2024-03-22"
 ---

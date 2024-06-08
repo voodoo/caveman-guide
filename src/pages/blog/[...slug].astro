@@ -55,7 +55,7 @@ const { Content, headings } = await post.render();
       <BackToPrevious href="/blog">Back to blog</BackToPrevious>
     </div>
     <div class="my-10 space-y-1">
-      <div class="animate flex items-center gap-1.5">
+      <!-- <div class="animate flex items-center gap-1.5">
         <div class="font-base text-sm">
           <FormattedDate date={post.data.date} />
         </div>
@@ -63,7 +63,7 @@ const { Content, headings } = await post.render();
         <div class="font-base text-sm">
           {readingTime(post.body)}
         </div>
-      </div>
+      </div> -->
       <h1 class="animate text-3xl font-semibold text-black dark:text-white">
         {post.data.title}
       </h1>
@@ -74,9 +74,9 @@ const { Content, headings } = await post.render();
       <div class="mt-24">
         <PostNavigation prevPost={prevPost} nextPost={nextPost} />
       </div>
-      <div class="mt-24">
+      <!-- <div class="mt-24">
         <Giscus />
-      </div>
+      </div> -->
     </article>
   </Container>
 </Layout>
