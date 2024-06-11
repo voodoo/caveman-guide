@@ -1,6 +1,6 @@
 ---
-title: "Blog Collection"
-description: "How to add posts to the blog."
+title: "Low carb"
+description: "Never needed it any way"
 date: "2024-03-21"
 ---
 

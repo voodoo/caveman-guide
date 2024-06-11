@@ -1,12 +1,40 @@
 ---
-title: "MDX syntax guide"
-description: "Use interactive components in Markdown."
+title: "Seed oils - poisonous snake oil"
+description: "Processed food - easy diabetes"
 date: "2024-03-16"
+draft: false
 ---
 
-import Callout from "@/components/Callout.astro";
+## Criticisms of Seed Oils
 
----
+### High Omega-6 Fatty Acids:
+
+Seed oils are rich in omega-6 fatty acids, which, in excess, can promote inflammation in the body. The modern diet often contains an imbalance of omega-6 to omega-3 fatty acids, potentially contributing to chronic diseases such as heart disease and arthritis.
+Processing and Refinement:
+
+Many seed oils undergo extensive processing, including chemical extraction and high-heat treatments, which can strip the oil of nutrients and create harmful byproducts like trans fats. This processing can reduce the nutritional quality of the oil and introduce potentially harmful substances.
+
+### Oxidation and Free Radicals:
+
+Seed oils are prone to oxidation due to their polyunsaturated fat content. Oxidized oils can produce free radicals, which are linked to cellular damage, aging, and various chronic diseases.
+
+
+## Potential Health Risks:
+
+Some studies suggest a correlation between high consumption of seed oils and increased risks of certain health issues, such as obesity, liver problems, and insulin resistance. However, these findings are not universally accepted and often depend on 
+
+
+Even today, refined industrial seed oils are used in practically every food product.
+
+<Callout>
+  <b>Let me tell you a little story.</b>
+  Before my bypass surgery, I had gout. 
+  I'd take open heart surgery over gout in pure pain.
+ Could not figure out what it Wars
+only later did I find out it was an apple fritter tri-fecta
+
+</Callout>
+
 
 MDX is an extension of Markdown with the ability to import `.astro`,
 `.jsx`, `.tsx` and other framework components you have integrated.

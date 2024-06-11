@@ -1,6 +1,6 @@
 ---
-title: "Embrace your inner caveman"
-description: "Hit the ground running."
+title: "Your inner caveman"
+description: "Embrace the ugg"
 date: "2024-03-22"
 ---
 

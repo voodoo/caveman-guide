@@ -1,6 +1,6 @@
 ---
-title: "Projects Collection"
-description: "How to add projects to your portfolio."
+title: "Industry capture"
+description: "Propaganda is the new marketing"
 date: "2024-03-20"
 ---
 
