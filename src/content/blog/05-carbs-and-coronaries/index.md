@@ -1,5 +1,5 @@
 ---
-title: "Carbs, and Coronaries"
+title: "From Carbs to Coronaries"
 description: "The only non-essential macronutrient"
 date: "2024-05-09"
 ---

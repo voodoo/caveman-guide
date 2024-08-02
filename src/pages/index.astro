@@ -9,7 +9,7 @@ import type { CollectionEntry } from "astro:content";
 
 const blog = (await getCollection("blog"))
   .filter((post) => !post.data.draft)
-  //.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  .sort((a, b) => a.data.date.valueOf());
 
 //.slice(0, SITE.NUM_POSTS_ON_HOMEPAGE);
 
@@ -23,9 +23,9 @@ const blog = (await getCollection("blog"))
 
 <Layout title={HOME.TITLE} description={HOME.DESCRIPTION}>
   <Container>
-    <h1 class="animate font-semibold text-black dark:text-white">
+    <h2 class="animate font-semibold text-black dark:text-white">
      Introduction
-    </h1>
+    </h2>
     <div class="space-y-16">
       <section>
         <article class="space-y-4">
@@ -40,7 +40,10 @@ const blog = (await getCollection("blog"))
               find out he had heart disease and needed bypass surgery I endeavored to find out.
               </p>
               <p>
-                A large measure of the problem is the food we eat. You are what you eat. If you eat 
+              <b>You are what you eat</b>
+              </p>
+              <p>
+                A large measure of the problem is the food we eat. If you eat 
                 processed garbage you will end up with any number of chronic diseases. Most of them 
                 because of insulin resistance - but the story is more complex than that.
               </p>

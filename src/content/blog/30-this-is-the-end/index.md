@@ -34,8 +34,5 @@ As you move forward, remember that the essence of survival lies in curiosity, ad
 
 Writing "Caveman's Guide to Surviving the Modern Industrial Landscape" has been a labor of love, born out of my own journey from developer to modern-day caveman. I am grateful for the opportunity to share these insights and stories with you, and I hope they have inspired you to see the world through a slightly different lens.
 
-In the end, survival is not just about enduring; it's about thriving. It's about finding joy in the simple things, seeking knowledge, and maintaining a sense of wonder and humor in the face of life's challenges. So, dear reader, as you step back into the hustle and bustle of modern life, carry these lessons with you, and remember: you have the heart of a caveman, and you are more capable than you know.
+In the end, survival is not just about enduring; it's about thriving. It's about finding joy in the simple things, seeking knowledge, and maintaining a sense of wonder and humor in the face of life's challenges. You have the heart of a caveman, and you are more capable than you know.
 
----
-
-Thank you for joining me on this adventure. Here's to surviving—and thriving—in the modern industrial landscape, one step (and one low-carb meal) at a time.

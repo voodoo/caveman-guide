@@ -14,7 +14,7 @@ To understand how seed oils came to be regarded as the snake oil of the modern f
 
 The appeal was obvious: seed oils were cheaper to produce than traditional fats like butter and lard. They had a longer shelf life and could be manufactured in vast quantities. It was the dawn of a new era in food processing, and seed oils quickly became the darlings of the culinary world.
 
-## Why Seed Oils Are Trouble
+## Don't get bitten
 
 But as with all tales of rapid advancement, there lurked a darker side. Seed oils, it turns out, are not the benign substances they were once thought to be. These oils are rich in omega-6 fatty acids, which, when consumed in excess, can wreak havoc on the body. Let’s break it down:
 

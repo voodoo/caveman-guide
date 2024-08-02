@@ -31,8 +31,6 @@ Industry capture operates on a principle as old as time: those with the most res
 
 You might be wondering why this matters to you, the modern caveman just trying to survive the industrial landscape without being eaten by a metaphorical saber-toothed tiger. The answer lies in the far-reaching consequences of industry capture, which can affect everything from the air you breathe to the food you eat.
 
-- **Environmental Degradation**: When industries manipulate regulations, environmental protections often suffer. This can lead to pollution, deforestation, and climate change, which in turn affect your health and well-being.
-  
 - **Health and Safety**: Industries that capture regulatory bodies can push for laxer safety standards, putting workers and consumers at risk. Think tainted food, unsafe working conditions, and defective products.
   
 - **Economic Inequality**: Industry capture often results in policies that favor large corporations at the expense of small businesses and everyday citizens. This widens the gap between the rich and the poor, leading to economic instability.
