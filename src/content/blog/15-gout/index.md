@@ -1,6 +1,6 @@
 ---
-title: "Rethinking Gout - The Apple Fritter Connection"
-description: "First warning signs"
+title: "Rethinking Gout"
+description: "The Apple Fritter Connection"
 date: "2024-03-21"
 ---
 
@@ -16,6 +16,9 @@ Before we dive into our new perspective, let's briefly recap the conventional wi
 - Gout is a form of inflammatory arthritis caused by the buildup of uric acid crystals in the joints.
 - It's traditionally associated with a "rich" diet high in purines, which break down into uric acid.
 - Foods typically blamed include red meat, organ meats, seafood, and alcohol.
+    > Have you ever had gout? Imagine a sledge hammer pummeling your big toe - 
+    > over and over. Between bypass surgery and gout, I'll take heart surgery.
+
 
 ## The Apple Fritter Hypothesis
 
@@ -23,7 +26,7 @@ Now, let's break down why a seemingly innocuous treat like an apple fritter migh
 
 ### 1. Seed Oils: The Hidden Inflammatory
 
-- Many apple fritters are fried in vegetable or seed oils (e.g., soybean, canola, corn oil).
+- Many apple fritters are fried in vegetable or seed oils (e.g., soybean, canola, corn oil). Often times, these oil vats have been used over and over - leading to oxidation.
 - These oils are high in omega-6 fatty acids, which can promote inflammation when consumed in excess.
 - Chronic inflammation can exacerbate gout symptoms and potentially trigger flare-ups.
 
@@ -36,12 +39,12 @@ Now, let's break down why a seemingly innocuous treat like an apple fritter migh
 ### 3. Fructose: The Uric Acid Producer
 
 - Apples naturally contain fructose, and additional fructose may be present in sweeteners used.
-- Unlike glucose, fructose is metabolized primarily in the liver, producing uric acid as a byproduct.
-- Studies have shown a strong correlation between fructose intake and increased risk of gout.
+- Unlike glucose, [^1] fructose is metabolized primarily in the liver, producing uric acid as a byproduct.
+- Studies have shown a strong correlation between fructose intake and increased risk of gout. [^2]
 
 ### 4. Flour: The Glucose Spike
 
-- White flour, commonly used in fritters, is rapidly converted to glucose in the body.
+- [^3] White flour, commonly used in fritters, is rapidly converted to glucose in the body.
 - This can lead to sharp insulin spikes, which may impair uric acid excretion.
 - Chronic consumption of high-glycemic foods is associated with increased gout risk.
 
@@ -67,3 +70,10 @@ This new perspective doesn't necessarily invalidate all traditional dietary advi
 While more research is needed to fully validate the "apple fritter hypothesis," this perspective offers a fresh look at a centuries-old disease. By shifting our focus from individual nutrients (like purines) to overall dietary patterns and metabolic effects, we may be able to develop more effective strategies for preventing and managing gout.
 
 As we continue to unravel the complex relationships between diet and disease, it's crucial to remain open to new ideas - even when they challenge long-held beliefs. The story of gout and the humble apple fritter serves as a reminder that in nutrition, as in all sciences, today's heresy may be tomorrow's conventional wisdom.
+
+[^1]: Recent advances in fructose intake and risk of hyperuricemia https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3197219/
+
+[^2]: The Epidemiology of Uric Acid and Fructose https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3197219/
+
+[^3]: The Fructose-Gout Connection https://www.arthritis.org/health-wellness/healthy-living/nutrition/healthy-eating/fructose-gout-link
+

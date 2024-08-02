@@ -30,15 +30,15 @@ While this book marks the end of our guided tour through the modern industrial l
 
 As you move forward, remember that the essence of survival lies in curiosity, adaptability, and a sense of humor. Embrace the wisdom of the caveman within you, and don't be afraid to question the status quo. Whether you're facing a new dietary fad, a perplexing work challenge, or simply the daily grind, approach it with the same ingenuity and tenacity that have driven human progress for millennia.
 
-## A Final Word of Thanks
+## A Final Word 
 
 Writing "Caveman's Guide to Surviving the Modern Industrial Landscape" has been a labor of love, born out of my own journey from developer to modern-day caveman. I am grateful for the opportunity to share these insights and stories with you, and I hope they have inspired you to see the world through a slightly different lens.
 
 In the end, survival is not just about enduring; it's about thriving. It's about finding joy in the simple things, seeking knowledge, and maintaining a sense of wonder and humor in the face of life's challenges. You have the heart of a caveman, and you are more capable than you know.
 
-
+## Thank you
 
   > I'd like to thank my godfather, Mark Wieser.
   > He is a prodigious writer and the hardest working man I know.
-  > Gently, he tried to teach me the value of hard work. I never learned
+  > Gently, he tried to teach me the value of hard work. I may have never learned
   > but I was always listening. Thank you and I love you.
