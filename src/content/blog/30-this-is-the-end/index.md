@@ -36,3 +36,9 @@ Writing "Caveman's Guide to Surviving the Modern Industrial Landscape" has been 
 
 In the end, survival is not just about enduring; it's about thriving. It's about finding joy in the simple things, seeking knowledge, and maintaining a sense of wonder and humor in the face of life's challenges. You have the heart of a caveman, and you are more capable than you know.
 
+
+
+  > I'd like to thank my godfather, Mark Wieser, for inspiring this short book.
+  > He is a prodigious writer and the hardest working man I know.
+  > He tried to teach me the value of hard work. I never learned
+  > but I was always listening.
