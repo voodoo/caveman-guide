@@ -38,7 +38,7 @@ In the end, survival is not just about enduring; it's about thriving. It's about
 
 
 
-  > I'd like to thank my godfather, Mark Wieser, for inspiring this short book.
+  > I'd like to thank my godfather, Mark Wieser.
   > He is a prodigious writer and the hardest working man I know.
-  > He tried to teach me the value of hard work. I never learned
-  > but I was always listening.
+  > Gently, he tried to teach me the value of hard work. I never learned
+  > but I was always listening. Thank you and I love you.

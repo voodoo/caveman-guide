@@ -7,7 +7,7 @@ date: "2024-03-21"
 
 ## The apple fritter connection
 
-For decades, the medical community has pointed fingers at red meat, organ meats, and alcohol as the primary dietary culprits behind gout. However, emerging research and clinical observations are challenging this long-held belief. This chapter proposes a controversial yet compelling argument: that foods like apple fritters - and their constituent ingredients - may be the real drivers of gout in our modern diet.
+No, really! For decades, the medical community has pointed fingers at red meat, organ meats, and alcohol as the primary dietary culprits behind gout. However, emerging research and clinical observations are challenging this long-held belief. This chapter proposes a controversial yet compelling argument: that foods like apple fritters - and their constituent ingredients - may be the real drivers of gout in our modern diet.
 
 ## The Traditional View of Gout
 

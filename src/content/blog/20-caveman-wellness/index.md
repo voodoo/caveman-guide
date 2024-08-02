@@ -1,6 +1,6 @@
 ---
 title: "Caveman wellness"
-description: "Exercise, breath, repeat."
+description: "Exercise, breath, sweat, repeat."
 date: "2024-03-21"
 ---
 
@@ -155,3 +155,12 @@ Sleep is crucial for overall health and well-being. Here's a brief overview of i
 8. Performance: Sleep improves physical and mental performance in daily activities and sports.
 
 9. Stress reduction: Adequate sleep helps manage stress levels and cortisol production.
+
+
+## Recipes
+
+- Meat
+- Jerky
+- Eggs
+- Avocados
+- The end

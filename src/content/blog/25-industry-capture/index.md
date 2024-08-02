@@ -15,6 +15,9 @@ To understand industry capture, we must first delve into the murky waters of ind
 
 Enter the government, with its well-meaning but often cumbersome attempts to impose order. Regulatory bodies were established to ensure that industries operated fairly and safely, protecting consumers, workers, and the environment. However, as industries grew more powerful, they began to realize that it was far easier to influence the rules than to follow them.
 
+   > Fun fact, the cigarette industry owns big food. The same play book they 
+   > used to downplay the risks of cigarettes it at play with processed foods.
+
 ## The Mechanics of Industry Capture: A Step-by-Step Guide
 
 Industry capture operates on a principle as old as time: those with the most resources tend to get their way. Here’s how it typically unfolds:

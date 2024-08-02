@@ -1,8 +1,8 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "Caveman's guide",
-  DESCRIPTION: "How to survice the modern industrial landscape",
+  TITLE: "A Caveman's guide",
+  DESCRIPTION: "to surviving the modern industrial landscape",
   EMAIL: "paul.vudmaska@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
