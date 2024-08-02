@@ -9,7 +9,7 @@ import type { CollectionEntry } from "astro:content";
 
 const blog = (await getCollection("blog"))
   .filter((post) => !post.data.draft)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  //.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 //.slice(0, SITE.NUM_POSTS_ON_HOMEPAGE);
 
@@ -30,23 +30,34 @@ const blog = (await getCollection("blog"))
       <section>
         <article class="space-y-4">
           <span class="animate">
-            <p>A caveman's guide to surving the modern industrial landscpe.</p>
+            <p>A caveman's guide to surving the modern industrial landscape.</p>
             <p><b> Times have changed. </b></p> 
+            
             <p>
             
-              People often talk about the idea of health as a way of living like our ancient ancestors did. 
-              It's about getting back to basics and embracing a simpler lifestyle. 
-              This concept revolves around the belief that our bodies are best suited to the types of foods,
-               activities, and environments that our early human ancestors experienced.
+              Look around you. The life expectancy of people is dropping. 
+              Why is that? What could be happening? As a person who woke up one day to
+              find out he had heart disease and needed bypass surgery I endeavored to find out.
+              </p>
+              <p>
+                A large measure of the problem is the food we eat. You are what you eat. If you eat 
+                processed garbage you will end up with any number of chronic diseases. Most of them 
+                because of insulin resistance - but the story is more complex than that.
+              </p>
+              <p>          People often talk about the idea of health as a way of living like our ancient ancestors did. 
+                It's about getting back to basics and embracing a simpler lifestyle. 
+                This concept revolves around the belief that our bodies are best suited to the types of foods,
+                 activities, and environments that our early human ancestors experienced.
+  
+              </p>
+              <p>
+                By starting with a first principle - what we do and eat now is very different 
+                than 100 years ago -  let alone a 1000.
 
+            <p>
+              Caveman's guide to surviving the modern industrial landscape.
             </p>
-            <!-- <p>
-              Start with Your Diet: Transitioning to a caveman diet can be a great first step. Begin by removing processed foods, sugars, and grains from your pantry. Focus on incorporating more lean proteins, fresh fruits and vegetables, nuts, and seeds into your meals. Experiment with new recipes and cooking methods to make the transition enjoyable.
-Move Your Body: Find ways to incorporate movement into your daily routine. This could be as simple as taking a daily walk, participating in a fitness class, or trying out a new outdoor activity. The key is to move your body in ways that feel natural and enjoyable to you. Remember, consistency is key, so aim to be active every day, even if it's just for a short time.
-Prioritize Sleep: Create a sleep-friendly environment by making your bedroom dark, cool, and quiet. Set a consistent sleep schedule by going to bed and waking up at the same time each day. Wind down before bed by avoiding screens, practicing relaxation techniques like deep breathing or meditation, and establishing a bedtime routine that signals to your body that it's time to rest.
-Connect with Nature: Spend time outdoors as much as possible. This could involve going for a hike in the woods, having a picnic in the park, or simply sitting outside and soaking up some sunlight. Take a moment to appreciate the beauty of nature, breathe in the fresh air, and ground yourself by walking barefoot on grass or soil.
-By incorporating these principles of caveman wellness into your life, you can tap into the inherent wisdom of our ancestors and promote your overall health and well-being. Remember, it's not about perfection but making gradual, sustainable changes that align with the natural rhythms of your body and the world around you.
-            </p> -->
+       
           </span>
 
         </article>

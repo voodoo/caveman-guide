@@ -6,8 +6,6 @@ date: "2023-12-31"
 
 ## Closing Thoughts and Summary
 
-
-
 As our journey through the modern industrial landscape comes to an end, it's time to reflect on the lessons we've learned and the wisdom we've gathered. From the perplexing rise of seed oils to the insidious nature of industry capture, we've navigated the complexities of contemporary life with the wit and resilience of our caveman ancestors.
 
 ## Embracing the Caveman Within

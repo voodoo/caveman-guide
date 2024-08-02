@@ -1,12 +1,12 @@
 ---
 title: "Industry capture"
-description: "Propaganda is the new marketing"
+description: "Where marketing stop and propaganda begins"
 date: "2024-03-20"
 ---
 
 ## Industry Capture
 
-Industry capture is a phenomenon that would have baffled our caveman ancestors, who lived in a world where "industry" meant crafting a better spear or figuring out how to start a fire without singeing their eyebrows. In today's complex modern landscape, industry capture refers to a rather cunning maneuver by which industries exert undue influence over regulatory bodies and government agencies meant to keep them in check. In simpler terms, it’s like letting the fox guard the henhouse, and then wondering why all your chickens are missing.
+Industry capture is a phenomenon that would have baffled our caveman ancestors, who lived in a world where "industry" meant crafting a better spear or figuring out how to start a fire without singeing their eyebrows. In today's complex modern landscape, industry capture refers to a rather cunning maneuver by which industries exert undue influence over regulatory bodies and government agencies meant to keep them in check.
 
 
 ## A Brief History of How the Fox Got in the Henhouse

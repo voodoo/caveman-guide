@@ -1,26 +1,20 @@
 ---
 title: "Seed oils - poisonous snake oil"
 description: "The path to hell is paved with seed oils"
-date: "2024-03-16"
-draft: false
+date: "2023-01-16"
 ---
 
-import Callout from "@/components/Callout.astro";
+##  Poisonous snake oil
 
----
-## Seed Oils - Poisonous Snake Oil
+In the grand tale of human survival, our ancestors faced many a threat: wild beasts, harsh climates, and the occasional sabor toothed tiger. Yet, there is a menace lurking in our modern industrial landscape, one that our forebears could never have anticipated: seed oils. Yes, those innocuous-sounding liquids that sneak into your pantry, your salad dressings, and even your favorite snacks. But make no mistake, these oils are as treacherous as a venomous serpent.
 
----
-
-In the grand tale of human survival, our ancestors faced many a threat: wild beasts, harsh climates, and the occasional bout of really bad hair days (which, one imagines, could have been quite severe given the lack of modern grooming tools). Yet, there is a new menace lurking in our modern industrial landscape, one that our forebears could never have anticipated: seed oils. Yes, those innocuous-sounding liquids that sneak into your pantry, your salad dressings, and even your favorite snacks. But make no mistake, these oils are as treacherous as a venomous serpent.
-
-## The Rise of Seed Oils: A Slick Story
+## The Rise of Seed Oils
 
 To understand how seed oils came to be regarded as the snake oil of the modern food industry, we must first travel back to the early 20th century. It was a time of innovation and industrialization, where the motto "bigger, faster, cheaper" reigned supreme. Amidst this frenzy, the production of oils from seeds like soybeans, corn, and cottonseed became a booming business.
 
 The appeal was obvious: seed oils were cheaper to produce than traditional fats like butter and lard. They had a longer shelf life and could be manufactured in vast quantities. It was the dawn of a new era in food processing, and seed oils quickly became the darlings of the culinary world.
 
-## The Dark Side of the Bottle: Why Seed Oils Are Trouble
+## Why Seed Oils Are Trouble
 
 But as with all tales of rapid advancement, there lurked a darker side. Seed oils, it turns out, are not the benign substances they were once thought to be. These oils are rich in omega-6 fatty acids, which, when consumed in excess, can wreak havoc on the body. Let’s break it down:
 
@@ -30,7 +24,7 @@ But as with all tales of rapid advancement, there lurked a darker side. Seed oil
 
 3. **Processed Pandemonium**: The extraction of seed oils typically involves high heat and chemical solvents, processes that can damage the oil and create harmful byproducts. These industrial methods strip the oils of any beneficial nutrients, leaving behind a substance that’s about as natural as a caveman using an iPhone.
 
-## The Modern Dilemma: How to Dodge the Seed Oil Bullet
+## How to Dodge the Seed Oil Bullet
 
 Navigating the modern industrial landscape means being ever-vigilant, and this is especially true when it comes to your diet. Here are some strategies to help you avoid the pitfalls of seed oils:
 
@@ -46,7 +40,7 @@ Navigating the modern industrial landscape means being ever-vigilant, and this i
 
 The modern world is filled with conveniences that our caveman ancestors could never have dreamed of, but not all that glitters is gold. Seed oils, though marketed as a miracle of modern food science, are more akin to the snake oil cures of yore. By embracing the wisdom of our ancestors and opting for natural, unprocessed fats, we can navigate this particular pitfall with ease and grace.
 
-So, dear reader, as you embark on your journey through the modern industrial landscape, remember to keep a wary eye on those bottles of oil. With a bit of knowledge and a touch of caveman savvy, you can dodge this dietary danger and thrive in our complex, ever-changing world.
+As you embark on your journey through the modern industrial landscape, remember to keep a wary eye on those bottles of oil. With a bit of knowledge and a touch of caveman savvy, you can dodge this dietary danger and thrive in our complex, ever-changing world.
 
 ---
 
