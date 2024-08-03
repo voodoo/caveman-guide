@@ -1,6 +1,6 @@
 ---
 title: "Industry capture"
-description: "Where marketing stop and propaganda begins"
+description: "How the Fox Got in the Henhouse"
 date: "2024-03-20"
 ---
 

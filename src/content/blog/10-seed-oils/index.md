@@ -1,12 +1,12 @@
 ---
-title: "Seed oils - poisonous snake oil"
-description: "The path to hell is paved with seed oils"
+title: "Seed oils"
+description: "Poisonous snake oil"
 date: "2023-01-16"
 ---
 
 ##  Poisonous snake oil
 
-In the grand tale of human survival, our ancestors faced many a threat: wild beasts, harsh climates, and the occasional sabor toothed tiger. Yet, there is a menace lurking in our modern industrial landscape, one that our forebears could never have anticipated: seed oils. Yes, those innocuous-sounding liquids that sneak into your pantry, your salad dressings, and even your favorite snacks. But make no mistake, these oils are as treacherous as a venomous serpent.
+In the grand tale of human survival, our ancestors faced many a threat: wild beasts, harsh climates, and the occasional saber toothed tiger. Yet, there is a menace lurking in our modern industrial landscape, one that our forebears could never have anticipated: seed oils. Yes, those innocuous-sounding liquids that sneak into your pantry, your salad dressings, and even your favorite snacks. But make no mistake, these oils are as treacherous as a venomous snake.
 
 ## The Rise of Seed Oils
 
@@ -36,9 +36,9 @@ Navigating the modern industrial landscape means being ever-vigilant, and this i
 
 4. **Dine Wisely**: When eating out, it can be harder to avoid seed oils, as many restaurants use them for their cost-effectiveness. Don’t be afraid to ask your server about the oils used in cooking, and opt for grilled or steamed dishes when possible.
 
-## A Final Word: Embrace the Wisdom of the Ancients
+## Embrace the Wisdom of the Ancients
 
-The modern world is filled with conveniences that our caveman ancestors could never have dreamed of, but not all that glitters is gold. Seed oils, though marketed as a miracle of modern food science, are more akin to the snake oil cures of yore. By embracing the wisdom of our ancestors and opting for natural, unprocessed fats, we can navigate this particular pitfall with ease and grace.
+The modern world is filled with conveniences that our caveman ancestors could never have dreamed of. Seed oils, though marketed as a miracle of modern food science, are more akin to the snake oil cures. By embracing the wisdom of our ancestors and opting for natural, unprocessed fats, we can navigate this particular pitfall with ease and grace.
 
 As you embark on your journey through the modern industrial landscape, remember to keep a wary eye on those bottles of oil. With a bit of knowledge and a touch of caveman savvy, you can dodge this dietary danger and thrive in our complex, ever-changing world.
 

@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+blockquote {
+  background-color:black;
+  padding-bottom: 1em;
+  padding-top: 1em;
+
+  /*@apply border-l-4 border-neutral-200 dark:border-neutral-800 pl-4 my-6;*/
+} 
+
 html {
   overflow-y: auto;
   color-scheme: light;

@@ -1,6 +1,6 @@
 ---
 title: "Caveman wellness"
-description: "Exercise, breath, sweat, repeat."
+description: "Exercise, breath, sweat, repeat"
 date: "2024-03-21"
 ---
 
@@ -115,7 +115,11 @@ Getting some sun can have several benefits for your health and well-being:
 
 ## Time restricted eating
 
-Time restricted eating (TRE) is a form of intermittent fasting that focuses on limiting the daily eating window. Here's a concise overview:
+I don't know about you, but when I tried intermittent fasting, I found I could not sleep. That first night, my body was telling me to eat something. All night long - and I did not sleep. 
+
+Time restricted eating (TRE) is a form of intermittent fasting that focuses on limiting the daily eating window. It is something I can do. Forever.
+
+Here's a concise overview:
 
 1. Concept: Consume all daily calories within a specific time frame, typically 8-12 hours. 4 is better.
 
@@ -129,9 +133,11 @@ Time restricted eating (TRE) is a form of intermittent fasting that focuses on l
 
 4. Flexibility: Can be adjusted to fit different lifestyles and schedules.
 
-5. Common approaches: 16/8 (16 hours fasting, 8 hours eating) or 14/10.
+5. Common approaches: 20/4 (20 hours fasting, 4 hours eating).
 
 6. Ease of adoption: Often considered more sustainable than other fasting methods.
+
+  > We don't need no 3 meals a day - ask a caveman!
 
 
 ## Sleep
@@ -159,8 +165,7 @@ Sleep is crucial for overall health and well-being. Here's a brief overview of i
 
 ## Recipes
 
-- Meat
-- Jerky
+- Meat - Jerky
 - Eggs
 - Avocados
-- The end
+- Repeat!

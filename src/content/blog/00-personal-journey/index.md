@@ -6,11 +6,11 @@ date: "2024-05-09"
 
 ## Biography: I Have Not Always Been a Caveman
 
-After trouble at work, and various illnesses (gout) I had a heart test called a catheterization. They use a thin flexible tube, inserted into your femoral artery to go up into your heart. Ultimately I had 90% blockage in one main artery - the 'widow maker'. I was told heart surgery was 
+After trouble at work, and various illnesses (gout) I had a heart test called a catheterization. They use a thin flexible tube, inserted into your femoral artery to go up into your heart. Ultimately I had 90% blockage the main artery - the '[widow maker](https://www.youtube.com/watch?v=NSPcuGjstN4)'. I was told heart surgery was 
 my only option.
 
 
-## I'm a software developer by trade, not a writer.
+## I'm a software developer, not a writer.
 
 Researching this book, I've run into multiple obstacles.
 
@@ -47,7 +47,7 @@ The promotion of low-fat diets and the rise of processed foods are indeed interc
 - Some researchers argue this shift may have played a role in the rise of obesity and type 2 diabetes rates
 
 
-But the powers that be, who wrote the pyramid, is influenced (captured some may say) by big corps. 
+But the powers that be, who wrote the pyramid (and "The standard American Diet") are influenced (captured some may say) by big corps. 
 
 Money is in the carbs - processed food - take flour, sugar and seed oils - box it up and put a tiger on it - they're great!
 

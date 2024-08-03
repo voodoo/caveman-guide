@@ -2,37 +2,22 @@
 import Layout from "@layouts/Layout.astro";
 import Container from "@components/Container.astro";
 import { SITE, HOME, SOCIALS } from "@consts";
-import ArrowCard from "@components/ArrowCard.astro";
-import Link from "@components/Link.astro";
-import { getCollection } from "astro:content";
-import type { CollectionEntry } from "astro:content";
+import ArrowCardStatic from "@components/ArrowCardStatic.astro";
 
-const blog = (await getCollection("blog"))
-  .filter((post) => !post.data.draft)
-  .sort((a, b) => a.data.date.valueOf());
-
-//.slice(0, SITE.NUM_POSTS_ON_HOMEPAGE);
-
-// const projects: CollectionEntry<"projects">[] = (
-//   await getCollection("projects")
-// )
-//   .filter((project) => !project.data.draft)
-//   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-//   .slice(0, SITE.NUM_PROJECTS_ON_HOMEPAGE);
 ---
 
 <Layout title={HOME.TITLE} description={HOME.DESCRIPTION}>
   <Container>
-    <div class="space-y-16">
-      <section>
-        <article class="space-y-4">
-          <span class="animate">
-            <img src="/images/caveman.png" alt="Hero image" class="rounded-lg" />
-            <p><b> Times have changed. </b></p> 
+     <ArrowCardStatic/>
+      <section class="space-y-4">
+        <article >
+
+
+            <p><b> Times have changed</b></p> 
             
             <p>
             
-              For the first time, the life expectancy of people is decreasing. 
+              For the first time in modern times, the life expectancy of people is decreasing. 
               Why is that? As a person who woke up one day to
               find out he had heart disease and needed bypass surgery,   I endeavored to find out.
               </p>
@@ -55,33 +40,20 @@ const blog = (await getCollection("blog"))
               </p>
               <p>
                 What is different about the food we eat today compared to the food our ancestors ate 150 years ago?
-                What do we <i>do</i> differently?
+                What do we <b>do</b> differently?
               </p>
               <p>
-                In this book, we'll interogate the things we do 
+                In this book, we'll look at the things we do 
                 and eat though the eyes of "A caveman's guide surviving the modern landscape".
               </p>
-          </span>
+           
+              <p> 
+                <img src="/images/caveman2.png" alt="food" class="rounded-lg"/>
+             </p>              
+
 
         </article>
       </section>
-
-      <section class="animate space-y-6">
-        <!-- <div class="flex flex-wrap items-center justify-between gap-y-2">
-          <h2 class="font-semibold text-black dark:text-white">Latest posts</h2>
-          <Link href="/blog"> See all posts </Link>
-        </div> -->
-        <ul class="not-prose flex flex-col gap-4">
-          {
-            blog.map((post) => (
-              <li>
-                <ArrowCard entry={post} />
-              </li>
-            ))
-          }
-        </ul>
-      </section>
-
-    </div>
+      <ArrowCardStatic/>
   </Container>
 </Layout>
