@@ -13,8 +13,8 @@ export const HOME: Metadata = {
   DESCRIPTION: "Health",
 };
 
-export const BLOG: Metadata = {
-  TITLE: "Blog",
+export const Book: Metadata = {
+  TITLE: "Book",
   DESCRIPTION: "A collection of articles about caveman's guide",
 };
 

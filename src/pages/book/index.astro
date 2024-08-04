@@ -3,15 +3,15 @@ import { type CollectionEntry, getCollection } from "astro:content";
 import Layout from "@layouts/Layout.astro";
 import Container from "@components/Container.astro";
 import ArrowCard from "@components/ArrowCard.astro";
-import { BLOG } from "@consts";
+import { Book } from "@consts";
 
-const posts = (await getCollection("blog"))
+const posts = (await getCollection("book"))
   .filter((post) => !post.data.draft)
   .sort((a, b) => a.data.date.valueOf());
 
 ---
 
-<Layout title={BLOG.TITLE} description={BLOG.DESCRIPTION}>
+<Layout title={Book.TITLE} description={Book.DESCRIPTION}>
   <Container>
     <div class="space-y-10">
            <section class="animate space-y-4">

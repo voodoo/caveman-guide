@@ -143,7 +143,7 @@ Instead of seeing your LDL is high and getting a statin look at your Triglycerid
 
 [^1]: Key cholesterol study hidden from the public https://www.youtube.com/watch?v=wICtdUuEYZY&list=WL&index=4&t=205s
 
-[^2]: Why are we still in the middle of a ‘statins war’? https://utswmed.org/medblog/statins-debate/
+[^2]: Why are we still in the middle of a ‘statins war’? https://utswmed.org/medbook/statins-debate/
 
 [^3]: USF professor: Statin use not justified for healthy people with high cholesterol https://www.usf.edu/news/2022/usf-professor-statin-use-not-justified-for-healthy-people-with-high-cholesterol.aspx
 
@@ -152,7 +152,7 @@ Instead of seeing your LDL is high and getting a statin look at your Triglycerid
 
 [^5]: Long term study backs statins for patients with high LDL and no other risk factors https://www.bmj.com/content/358/bmj.j4171/rr
 
-[^6]: Understanding Health Risks: Relative vs Absolute Risk https://atlasbiomed.com/blog/absolute-vs-relative-risk/
+[^6]: Understanding Health Risks: Relative vs Absolute Risk https://atlasbiomed.com/book/absolute-vs-relative-risk/
 
 [^7]: Looking at the Benefit of Statins from a Different Perspective https://www.aafp.org/pubs/afp/issues/2010/1001/p741.html
 
