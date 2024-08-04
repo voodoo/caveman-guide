@@ -4,19 +4,20 @@ description: "To coronary heart disease"
 date: "2024-05-09"
 ---
 
-## Biography: I Have Not Always Been a Caveman
+## I Have Not Always Been a Caveman
 
-After trouble at work, and various illnesses (gout) I had a heart test called a catheterization. They use a thin flexible tube, inserted into your femoral artery to go up into your heart. Ultimately I had 90% blockage the main artery - the '[widow maker](https://www.youtube.com/watch?v=NSPcuGjstN4)'. I was told heart surgery was 
+After trouble at work, and various illnesses (gout) I had a heart test called a catheterization. They use a thin flexible tube that is inserted into the femoral artery in the groin - and up into your heart. Ultimately I had 90% blockage the main artery - the '[widow maker](https://www.youtube.com/watch?v=NSPcuGjstN4)'. I was told heart surgery was 
 my only option.
 
+I'm a veteran - and the surgery was done at the VA. The care I received was way beyond expectations. But there were some complications. The surgery lasted 8 hours instead of 4. A quad bypass was scheduled but only a triple was completed. I learned years later that I defibbed (died) on the table. Afterwards I had a few issues, like kidney disfunction. All in all, I'm grateful.
 
 ## I'm a software developer, not a writer.
 
 Researching this book, I've run into multiple obstacles.
 
-- white lies 
+- white lies - things we were told that are just wrong
 - propaganda - aka marketing
-- govt lies
+- government misrepresentations
 - outright lies
 
 The landscape for finding truth has changed. Truth is a lie - and a lie is the truth.
@@ -24,7 +25,7 @@ Things are upside down.
 
 I will try to distill what I've learned - and what I think I've learned. It is a journey  that I think anyone can benefit from. 
 
-**Question everything.**
+## Question everything
 
 ## The food pyramid 🔎
 
@@ -49,7 +50,7 @@ The promotion of low-fat diets and the rise of processed foods are indeed interc
 
 But the powers that be, who wrote the pyramid (and "The standard American Diet") are influenced (captured some may say) by big corps. 
 
-Money is in the carbs - processed food - take flour, sugar and seed oils - box it up and put a tiger on it - they're great!
+Money is in the carbs - processed food - take flour, sugar and seed oils - **box it up and put a tiger on it - they're great!**
 
 As a bonus, at the tail end, when you have diabetes from a lifetime of corn pops, you are in need of insulin. Win win for those with both stocks.
 
