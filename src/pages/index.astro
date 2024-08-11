@@ -3,60 +3,58 @@ import Layout from "@layouts/Layout.astro";
 import Container from "@components/Container.astro";
 import { SITE, HOME, SOCIALS } from "@consts";
 import ArrowCardStatic from "@components/ArrowCardStatic.astro";
-
 ---
 
 <Layout title={HOME.TITLE} description={HOME.DESCRIPTION}>
   <Container>
-     <ArrowCardStatic/>
-      <section class="space-y-4">
-        <article id="article" >
+    <ArrowCardStatic />
+    <section class="space-y-4">
+      <article id="article">
+        <p><b> Times have changed</b></p>
 
+        <p>
+          For the first time in modern history, life expectancy is decreasing.
+          Why?
+        </p>
+        <p>
+        As a person who woke up one day to find out he had heart disease and needed
+        bypass surgery, I endeavored to find out.
 
-            <p><b> Times have changed</b></p> 
-            
-            <p>
-            
-              For the first time in modern times, the life expectancy of people is decreasing. Why?
-            </p>
-            <p></p>
-               As a person who woke up one day to
-              find out he had heart disease and needed bypass surgery,   I endeavored to find out.
-              </p>
-              <p>
-              <b>You are what you eat</b>
-              </p>
-              <p>
-                A large measure of the problem is the food we eat. If you eat 
-                processed garbage you will end up with any number of chronic diseases. Most of them 
-                because of insulin resistance - but the story is more complex than that.
-              </p>
-              <p>          People often talk about the idea of health as a way of living like our ancient ancestors did. 
-                It's about getting back to basics and embracing a simpler lifestyle. 
-                This concept revolves around the belief that our bodies are best suited to the types of foods,
-                 activities, and environments that our early human ancestors experienced.
-  
-              </p>
-              <p>
-                <b>Starting with a first principle</b>  
-              </p>
-              <p>
-                What is different about the food we eat today compared to the food our ancestors ate 150 years ago?
-                What do we <b>do</b> differently?
-              </p>
-              <p>
-                In this book, we'll look at the things we do 
-                and eat though the eyes of <b>"A caveman's guide surviving the modern landscape"</b>.
-              </p>
-              <img src="/images/caveman-rem.png" alt="food"/>
-           </article>
-           
+    
+      <p>
+        <b>You are what you eat</b>
+      </p>
+      <p>
+        A large measure of the problem is the food we eat. If you eat processed
+        garbage you will end up with any number of chronic diseases. Most of
+        them because of insulin resistance - but the story is more complex than
+        that.
+      </p>
+      <p>
+        People often talk about the idea of health as a way of living like our
+        ancient ancestors did. It's about getting back to basics and embracing a
+        simpler lifestyle. This concept revolves around the belief that our
+        bodies are best suited to the types of foods, activities, and
+        environments that our early human ancestors experienced.
+      </p>
+      <p>
+        <b>Starting with a first principle</b>
+      </p>
+      <p>
+        What is different about the food we eat today compared to the food our
+        ancestors ate 150 years ago? What do we <b>do</b> differently?
+      </p>
+      <p>
+        In this book, we'll look at the things we do and eat though the eyes of <b
+          >"A caveman's guide surviving the modern landscape"</b>.
+      </p>
+      <img src="/images/caveman-rem.png" alt="food" />
+      <ArrowCardStatic />
+    </article>
+    </section>
 
-          <!-- <img src="/images/caveman2.png" alt="food" class="rounded-lg mb-10"/> -->
-       
-
-      </section>
-      
-      <ArrowCardStatic/>
+    <!-- <img src="/images/caveman2.png" alt="food" class="rounded-lg mb-10"/> -->
   </Container>
+
+  
 </Layout>

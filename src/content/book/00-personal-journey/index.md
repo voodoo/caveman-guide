@@ -6,24 +6,30 @@ date: "2024-05-09"
 
 ## I Have Not Always Been a Caveman
 
-After trouble at work, and various illnesses (gout) I had a heart test called a catheterization. They use a thin flexible tube that is inserted into the femoral artery in the groin - and up into your heart. Ultimately I had 90% blockage the main artery - the widow maker [^1]. I was told heart surgery was 
+After difficulties at work and various illnesses (gout) I had a heart test called a catheterization. They use a thin flexible tube that is inserted into the femoral artery in the groin - and up into your heart. Ultimately I had 90% blockage the main artery - the widow maker [^1]. I was told heart surgery was 
 my only option.
 
+
+
 I'm a veteran - and the surgery was done at the VA. The care I received was way beyond expectations. But there were some complications. The surgery lasted 8 hours instead of 4. A quad bypass was scheduled but only a triple was completed. I learned years later that I defibbed (died) on the table. Afterwards I had a few issues, like kidney disfunction. All in all, I'm grateful.
+
+  > The Widow maker is a great movie. Get a CAC scan. It is the best, cheapest test you can get to diagnose heart disease. 
+
 
 ## I'm a software developer, not a writer.
 
 Researching this book, I've run into multiple obstacles.
 
+- not being a writer 😛
 - white lies - things we were told that are just wrong
 - propaganda - aka marketing
 - government misrepresentations
 - outright lies
-- not being a writer 😛
 
-The landscape for finding truth has changed. Truth is a lie - and a lie is the truth. Things are upside down.
 
-I will try to distill what I've learned - and what I think I've learned. It is a journey  that I think anyone can benefit from. 
+The landscape for finding truth has changed. Things are upside down. Truth is a lie and a lie is the truth. 
+
+I will try to distill what I've learned - **and what I think I've learned**. It is a journey  that I think anyone can benefit from. 
 
 ## The food pyramid 
 

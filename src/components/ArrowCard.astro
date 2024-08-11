@@ -6,8 +6,8 @@ const { entry } = Astro.props as {
   entry: CollectionEntry<"book">;
 };
 
-
-import { readingTime } from "@lib/utils";
+let chapter = Astro.props.chapter as number;
+//import { readingTime } from "@lib/utils";
 
 ---
 
@@ -17,12 +17,13 @@ import { readingTime } from "@lib/utils";
 >
   <div class="flex flex-1 flex-col truncate">
     <div class="font-semibold">
-      {entry.data.title} 
+       {entry.data.title} 
     </div>
     <div class="text-sm">
       {entry.data.description}
     </div>
   </div>
+  <b style="padding-top:10px">{chapter}</b>
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 24 24"

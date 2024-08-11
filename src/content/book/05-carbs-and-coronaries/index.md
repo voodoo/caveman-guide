@@ -9,7 +9,7 @@ Starting out writing this book I was fully prepared to point the finger at the s
 
 Our ancestors had access to carbs - finding an apple or making bread - but they were not processed. They were whole fresh food. And they were usually not plentiful. 
 
-So our bodies had to get used to fat and protein. We should do the same.
+So our bodies had to get used to fat and protein. 
 
 
 

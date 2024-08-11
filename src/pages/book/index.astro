@@ -17,9 +17,9 @@ const posts = (await getCollection("book"))
            <section class="animate space-y-4">
               <div>
                 <ul class="not-prose flex flex-col gap-4">
-                  {posts.map((post) => (
+                  {posts.map((post, i) => (
                     <li>
-                      <ArrowCard entry={post} />
+                      <ArrowCard entry={post} chapter={i+1}/>
                     </li>
                   ))}
                 </ul>

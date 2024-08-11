@@ -24,7 +24,7 @@ So, that is a hill that I may die on.  😛
 
 The rise of statins and the controversy surrounding LDL (low-density lipoprotein) cholesterol is an interesting topic in modern medicine. Here is a concise overview of the key points:
 
-1. Statins were first approved in 1987 and quickly became one of the most profitable classes of drugs worldwide.
+1. Statins were first approved in 1987 [^2] and quickly became one of the most profitable classes of drugs worldwide.
 2. They work by inhibiting an enzyme involved in cholesterol production, effectively lowering LDL cholesterol levels.
 3. Statins have been shown to reduce the risk of cardiovascular events in many large clinical trials.
 
@@ -38,13 +38,13 @@ The rise of statins and the controversy surrounding LDL (low-density lipoprotein
 
 2. Presenting only relative risk without absolute risk is considered misleading:
 
-- Gigerenzer et al. called this practice "incomplete and misleading risk information"[^4].
-- It can lead to overestimation of treatment benefits by both patients and physicians[^3].
+- Gigerenzer et al. called this practice "incomplete and misleading risk information".
+- It can lead to overestimation of treatment benefits by both patients and physicians.
 
 3. The absolute risk reduction with statins is often quite small:
 
-- In the JUPITER trial example, the absolute risk reduction was 0.41%[^3].
-- In the 20-year follow-up study, the absolute risk reduction in coronary deaths was 2.3%[^4].
+- In the JUPITER trial example, the absolute risk reduction was 0.41%. [^5]
+- In the 20-year follow-up study, the absolute risk reduction in coronary deaths was 2.3%.
 
 4. Number Needed to Treat (NNT) helps put absolute risk reduction in perspective:
 
@@ -64,12 +64,12 @@ The rise of statins and the controversy surrounding LDL (low-density lipoprotein
 
 - When absolute benefits are small, potential side effects of statins become more relevant in decision-making.
 
-In conclusion, while statins do provide benefits in cardiovascular risk reduction, the absolute risk reduction is often much smaller than the relative risk reduction suggests. Proper communication of both measures is essential for informed decision-making by patients and healthcare providers.[^6][^7]
+In conclusion, while statins do provide benefits in cardiovascular risk reduction, the absolute risk reduction is often much smaller than the relative risk reduction suggests. Proper communication of both measures is essential for informed decision-making by patients and healthcare providers.[^6]
 
 ##  LDL Controversy: 
 
 1. LDL has long been dubbed "bad cholesterol" due to its association with heart disease.
-2. The "lipid hypothesis" suggests that lowering LDL cholesterol reduces cardiovascular risk.[^1]
+2. The "lipid hypothesis" suggests that lowering LDL cholesterol reduces cardiovascular risk.
 3. However, some researchers argue that the relationship between LDL and heart disease is more complex than initially thought.
 
 Key points of controversy:
@@ -78,7 +78,7 @@ Key points of controversy:
 2. Side effects: While generally well-tolerated, statins can cause muscle pain and, rarely, more serious side effects.
 3. Absolute vs. relative risk reduction: Critics argue that the benefits of statins are often overstated in terms of relative risk reduction rather than absolute risk reduction.
 4. Role of inflammation: Some researchers suggest that inflammation, rather than LDL itself, may be the primary driver of heart disease.
-5. [^2] Questioning the lipid hypothesis: A minority of researchers challenge the causal relationship between LDL and heart disease.
+5. Questioning the lipid hypothesis: A minority of researchers challenge the causal relationship between LDL and heart disease.
 
 
 ## Lean Mass Hyper-Responders
@@ -135,11 +135,14 @@ Key points about LMHRs:
 
 10. Fetal development: Cholesterol is critical for proper fetal development, especially of the brain and nervous system.
 
-The body tightly regulates cholesterol levels, with most being produced endogenously rather than obtained from diet. The liver typically adjusts its production based on dietary intake.
+The body tightly regulates cholesterol levels, with most being produced endogenously rather than obtained from diet. The liver typically adjusts its production based on dietary intake. [^7]
 
 While high levels of certain cholesterol fractions (particularly oxidized LDL) are associated with cardiovascular risk, it's important to recognize cholesterol's vital physiological roles. The debate in medical science isn't about whether cholesterol is necessary (it absolutely is), but rather about what constitutes optimal levels and how to balance cardiovascular risk with the body's need for this essential molecule.
 
-Instead of seeing your LDL is high and getting a statin look at your Triglyceride / HDL level. If it is 2 or less (100/50) - that is a better marker.
+  >  💡 Tip:   Instead of seeing if your LDL is high (and getting a statin) look at your Triglyceride / HDL level. 
+  >   If it is 2 or less (100/50) - you are golden. 
+
+
 
 [^1]: Key cholesterol study hidden from the public https://www.youtube.com/watch?v=wICtdUuEYZY&list=WL&index=4&t=205s
 

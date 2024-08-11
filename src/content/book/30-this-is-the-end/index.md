@@ -14,7 +14,7 @@ At the heart of our exploration lies a simple truth: despite the technological m
 
 By embracing this primal wisdom, we can better navigate the challenges of the modern world. Here are a few key takeaways from our journey:
 
-1. **Stay Informed, Stay Vigilant**: Knowledge is our greatest ally in the face of modern challenges. Whether it's understanding the hidden dangers of seed oils or recognizing the signs of industry capture, staying informed empowers us to make better choices for our health and well-being.
+1. **Stay Informed**: Knowledge is our greatest ally in the face of modern challenges. Whether it's understanding the hidden dangers of seed oils or recognizing the signs of industry capture, staying informed empowers us to make better choices for our health and well-being.
 
 2. **Prioritize Natural, Whole Foods**: In a world filled with processed foods and artificial additives, returning to a diet rich in natural, whole foods can have profound benefits. Embrace the simplicity of our ancestors' diets, focusing on fresh vegetables, fruits, lean proteins, and healthy fats.
 
@@ -32,7 +32,7 @@ As you move forward, remember that the essence of survival lies in curiosity, ad
 
 ## A Final Word 
 
-Writing "Caveman's Guide to Surviving the Modern Industrial Landscape" has been a labor of love, born out of my own journey from developer to modern-day caveman. I am grateful for the opportunity to share these insights and stories with you, and I hope they have inspired you to see the world through a slightly different lens.
+Writing this book has been a labor of love, born out of my own journey from developer to modern-day caveman. I am grateful for the opportunity to share these insights and stories with you, and I hope they have inspired you to see the world through a slightly different lens.
 
 In the end, survival is not just about enduring; it's about thriving. It's about finding joy in the simple things, seeking knowledge, and maintaining a sense of wonder and humor in the face of life's challenges. You have the heart of a caveman, and you are more capable than you know.
 
