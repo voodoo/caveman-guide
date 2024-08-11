@@ -1,13 +1,14 @@
 ---
 import type { CollectionEntry } from "astro:content";
 
-type Props = {
-  entry: CollectionEntry<"book"> | CollectionEntry<"projects">;
-};
 
 const { entry } = Astro.props as {
-  entry: CollectionEntry<"book"> | CollectionEntry<"projects">;
+  entry: CollectionEntry<"book">;
 };
+
+
+import { readingTime } from "@lib/utils";
+
 ---
 
 <a
@@ -16,7 +17,7 @@ const { entry } = Astro.props as {
 >
   <div class="flex flex-1 flex-col truncate">
     <div class="font-semibold">
-      {entry.data.title}
+      {entry.data.title} 
     </div>
     <div class="text-sm">
       {entry.data.description}

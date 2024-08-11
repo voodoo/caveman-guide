@@ -13,10 +13,10 @@
 }
 
 blockquote {
-  background-color:black;
-  padding-bottom: 1em;
-  padding-top: 1em;
-
+  background-color: black;
+   padding-bottom: .1em;
+  padding-top: .1em; 
+  border-radius: 0.5rem;
   /*@apply border-l-4 border-neutral-200 dark:border-neutral-800 pl-4 my-6;*/
 } 
 

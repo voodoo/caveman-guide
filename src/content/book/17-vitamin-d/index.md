@@ -120,3 +120,6 @@ The story of vitamin D is a powerful reminder of the limitations of our current 
 As we continue to unravel the mysteries of vitamin D, one thing becomes clear: its importance has been drastically underestimated. By recognizing the crucial role of this overlooked nutrient, we open the door to potentially transformative improvements in public health.
 
 In the end, the vitamin D saga serves as a call to humility in the face of nature's complexity. It reminds us that sometimes, the most powerful tools for health are not newfangled pharmaceuticals, but the simple gifts of nature - like sunshine - that we've taken for granted for far too long.
+
+
+[^1] Common Symptoms of Vitamin D Deficiency and How to Treat Them https://www.healthline.com/nutrition/vitamin-d-deficiency-symptoms

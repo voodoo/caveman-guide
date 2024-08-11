@@ -4,6 +4,14 @@ description: "Exercise, breath, sweat, repeat"
 date: "2024-03-21"
 ---
 
+It may sound extravagant - having a sauna[^1] and a pool[^2] - but it does not have to be. For (much) less than $500 you can have both. 
+
+When in the sauna, I practice breathing exercises - and I SWEAT.
+
+For an ice bath I put a kiddy pool into the big kiddy pool and put a bag of ice in it. No, you are not immersed but you will get cold. $5 plus the ice. 
+
+  > Caveman wellness on a budget!
+
 ## Sauna, pool and ice baths
 
 The practice of alternating between a hot sauna and a cold pool plunge, sometimes called contrast therapy, has gained popularity for its potential health benefits. Here's an overview of the potential advantages:
@@ -165,7 +173,21 @@ Sleep is crucial for overall health and well-being. Here's a brief overview of i
 
 ## Recipes
 
-- Meat - Jerky
-- Eggs
-- Avocados
-- Repeat!
+### Meat - Jerky
+  - Typically Ribeye
+  - For jerky, whatever is most economical. 
+  - Sometimes the 10lb sirloin works great but if I can find a (fatty) Ribeye for 12lb I may get it
+  
+### Eggs
+  - Boiled
+  - Fried
+
+### Avocados
+  - (Make sure you can digest them)
+
+###  Repeat!
+
+
+[^1]: Sauna https://www.amazon.com/Eitpaw-Portable-Personal-Ultimate-Relaxation/dp/B0C46B1V41/ref=sr_1_9?crid=XYO2KN4KVPDR&dib=eyJ2IjoiMSJ9.ORWafrkYYsDGStj_4am4WtWCJjnr7fHfFSNcuhxt6oluzfa8A2qecppCmqdjDSowe7-GC-fZkjXrqkNSdBdsn3N6epdgefXvXffRXRa0WrYumgo7FrCfUNa8IHz2Fn5UezMF65egFZyX_WclYWScTGHYZFt7vkTgxl3VnIqihwP45Or7I6uZ3HJiW97m0avkiEV-us_z39TiUc4khw6dSFJNNdee2ipGVhtDUkcVK84.LNa9yUsR6P5EgU92jmtv5W_2XEOntirsZlnrWyugXBo&dib_tag=se&keywords=kuppet%2Bsauna&qid=1722794185&sprefix=sauna%2Bkup%2Caps%2C117&sr=8-9&th=1
+
+[^2]: Above ground pool https://www.amazon.com/Intex-Round-Prism-Frame-26723EH/dp/B07F3DNDL4/ref=sr_1_10?crid=2ZFVA0PGQCJGU&dib=eyJ2IjoiMSJ9.9jHDVq4VAs1UtNs3VIUjZywqTyCBej3YeEuTF81wqSx5qygk1ErQ6IIxo4va4mTbh75OrDQlXyBLtkQQ70h6ZVq_w6EemzymzbmTfhIQSWSzoojg9_pawVgiL_YWg_GjDIz520jWrS9-xfYSCJGIP5_YbqTXT5tpuHlwjGxclwnh6Ofa0nIcpO40eX-D9M4ns5yJhe3HlAQlIYRgRfd1nfcWwV5pLw7xqpWvckAe93A.lu7WDEizyuzIim0Q9Y_zFo0rg2e8JsfjP2FpSFUXseg&dib_tag=se&keywords=pool&qid=1722794268&sprefix=po%2Caps%2C139&sr=8-10&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1

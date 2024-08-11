@@ -4,9 +4,18 @@ description: "The only non-essential macronutrient"
 date: "2024-05-09"
 ---
 
+
+Starting out writing this book I was fully prepared to point the finger at the simple carb as the driving factor for modern diseases - and indeed, I think there is truth to that. 
+
+Our ancestors had access to carbs - finding an apple or making bread - but they were not processed. They were whole fresh food. And they were usually not plentiful. 
+
+So our bodies had to get used to fat and protein. We should do the same.
+
+
+
 ## The Nonessential Macronutrient
 
-Despite popular belief, carbohydrates are the only macronutrient not essential for human survival. While protein and fat are crucial for various bodily functions, our bodies can function without dietary carbohydrates. Here's why:
+Despite popular belief, carbohydrates are the only macronutrient not essential for human survival [^1]. While protein and fat are crucial for various bodily functions, our bodies can function without dietary carbohydrates. Here's why:
 
 1. Glucose production: The liver can produce glucose through a process called gluconeogenesis, using proteins and fats.
 2. Ketones: In the absence of carbohydrates, the body can use ketones, derived from fat, as an alternative energy source.
@@ -39,3 +48,5 @@ The industrial food complex has played a significant role in shaping dietary gui
 ## Conclusion
 
 Understanding the true nature of carbohydrates in our diet is crucial for making informed nutritional choices. By recognizing that carbs are not essential, acknowledging our low-carb ancestral roots, and being aware of the prevalence of carbs in processed foods, we can begin to navigate the complex world of modern nutrition with greater clarity.
+
+[^1]: Nutrition: Macronutrient Intake, Imbalances, and Interventions  https://www.ncbi.nlm.nih.gov/books/NBK594226/

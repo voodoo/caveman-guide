@@ -5,7 +5,9 @@ date: "2024-03-21"
 ---
 
 
-## Chapter 1: Sources
+
+
+
 
 1. Westman, E. C. (2002). Is dietary carbohydrate essential for human nutrition? The American Journal of Clinical Nutrition, 75(5), 951-953.
 
@@ -20,6 +22,9 @@ date: "2024-03-21"
 5. Eaton, S. B., & Konner, M. (1985). Paleolithic nutrition: a consideration of its nature and current implications. New England Journal of Medicine, 312(5), 283-289.
 
 6. Prado-Lima, P. S. (2018). Low-carbohydrate diet: is it a nutrition transition of reverse evolution of the brain? Trends in Psychiatry and Psychotherapy, 40(3), 258-259.
+
+7. The secret benefits of Grass-Fed BEEF TALLOW https://www.youtube.com/watch?v=-Wn32snt0YY
+
 
 ## The Rise of Processed Foods: A Carbohydrate Explosion
 

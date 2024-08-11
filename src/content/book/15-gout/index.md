@@ -13,7 +13,6 @@ No, really! For decades, the medical community has pointed fingers at red meat, 
   > over and over. Between bypass surgery and gout, I'll take heart surgery.
 
 
-
 ## The Traditional View of Gout
 
 Before we dive into our new perspective, let's briefly recap the conventional wisdom on gout:
