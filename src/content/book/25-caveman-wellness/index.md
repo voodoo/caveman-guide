@@ -6,11 +6,21 @@ date: "2024-03-21"
 
 It may sound extravagant - having a sauna[^1] and a pool[^2] - but it does not have to be. For (much) less than $500 you can have both. 
 
+In the early afternoon I do the sauna and then jump in the pool. 
+
 When in the sauna, I practice deep, slow, mindful breathing - and I SWEAT.
 
-For an ice bath I put a kiddy pool into the big kiddy pool and put a bag of ice in it. No, you are not immersed but you will get cold. $5 plus the ice. 
+For an ice bath I put a kiddy pool into the big kiddy pool and put a bag of ice in it. 
+No, you are not immersed but you will get cold. $5 plus the ice. 
+
 
   > Caveman wellness on a budget!
+
+
+There are those who would question the benefit of such a routine. The science-y-types always ask "how do you know it works". I don't. I do know that sweating and plunging in the pool is ancestrally appropriate - something we used to do a lot more. 
+
+In the end, it does not matter. I ENJOY it. It breaks up my day and gives me some time to think on my own.
+
 
 ## Sauna, pool and ice baths
 
