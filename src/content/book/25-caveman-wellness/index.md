@@ -6,7 +6,7 @@ date: "2024-03-21"
 
 It may sound extravagant - having a sauna[^1] and a pool[^2] - but it does not have to be. For (much) less than $500 you can have both. 
 
-When in the sauna, I practice breathing exercises - and I SWEAT.
+When in the sauna, I practice deep, slow, mindful breathing - and I SWEAT.
 
 For an ice bath I put a kiddy pool into the big kiddy pool and put a bag of ice in it. No, you are not immersed but you will get cold. $5 plus the ice. 
 

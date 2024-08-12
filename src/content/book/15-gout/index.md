@@ -1,6 +1,6 @@
 ---
 title: "Rethinking Gout"
-description: "The Apple Fritter Connection"
+description: "The Apple Fritter connection"
 date: "2024-03-21"
 ---
 

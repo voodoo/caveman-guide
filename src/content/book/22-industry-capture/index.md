@@ -1,6 +1,6 @@
 ---
 title: "Industry capture"
-description: "How the Fox Got in the Henhouse"
+description: "How the fox got in the henhouse"
 date: "2024-03-20"
 ---
 

@@ -1,10 +1,8 @@
 ---
 title: "Sources"
-description: "Where I found all this stuff"
+description: "of truth"
 date: "2024-03-21"
 ---
-
-
 
 
 

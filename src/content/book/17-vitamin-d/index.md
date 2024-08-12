@@ -1,6 +1,6 @@
 ---
 title: "Vitamin D"
-description: "Get some sun"
+description: "Get some sun already"
 date: "2024-03-21"
 ---
 
