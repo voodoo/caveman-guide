@@ -2,18 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
-#article img {
+section#article img {
   filter: brightness(10%);
   position: absolute;
   left: 10%; 
   top: 10%; 
   z-index: -1;
-
+  width: 80%; 
+  height: 80%;
 
 }
 
 blockquote {
-  background-color: black;
+  background-color: rgb(37, 37, 37);
    padding-bottom: .1em;
   padding-top: .1em; 
   border-radius: 0.5rem;

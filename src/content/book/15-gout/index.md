@@ -7,10 +7,13 @@ date: "2024-03-21"
 
 ## The apple fritter connection
 
-No, really! For decades, the medical community has pointed fingers at red meat, organ meats, and alcohol as the primary dietary culprits behind gout. However, emerging research and clinical observations are challenging this long-held belief. This chapter proposes a controversial yet compelling argument: that foods like apple fritters - and their constituent ingredients - may be the real drivers of gout in our modern diet.
+No, really! 
+
+Back before my surgery, talking to the VA doc - she was adamant that the reason I had gout was from "purine foods" - meat, organ meats or alcohol food. She was certain.  I was perplexed because I did not have much, if any, of those things.
+
+However, emerging research and clinical observations are challenging this long-held belief. This chapter proposes a controversial yet compelling argument: that foods like apple fritters - and their constituent ingredients - may be the real drivers of gout in our modern diet.
     
-  > Have you ever had gout? Imagine a sledge hammer pummeling your big toe - 
-  > over and over. Between bypass surgery and gout, I'll take heart surgery.
+  > Have you ever had gout? Imagine a sledge hammer pummeling your big toe - over and over. Between bypass surgery and gout, I'll take heart surgery.
 
 
 ## The Traditional View of Gout

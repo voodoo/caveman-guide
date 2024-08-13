@@ -5,11 +5,13 @@ import { SITE, HOME, SOCIALS } from "@consts";
 import ArrowCardStatic from "@components/ArrowCardStatic.astro";
 ---
 
-<Layout title={HOME.TITLE} description={HOME.DESCRIPTION}>
+<Layout title={HOME.TITLE} description={HOME.DESCRIPTION} >
   <Container>
-    <ArrowCardStatic />
-    <section class="space-y-4">
-      <article id="article">
+    <div>
+      <section class="animate space-y-4" id="article">
+
+        <ArrowCardStatic />
+
         <p><b> Times have changed</b></p>
 
         <p>
@@ -49,12 +51,11 @@ import ArrowCardStatic from "@components/ArrowCardStatic.astro";
         <b>"A caveman's guide to surviving the modern industrial landscape"</b>.
       </p>
       <img src="/images/caveman-rem.png" alt="food" />
-      
-    </article>
+      <ArrowCardStatic />  
+    </div>
     </section>
-    <ArrowCardStatic />
-    <!-- <img src="/images/caveman2.png" alt="food" class="rounded-lg mb-10"/> -->
-  </Container>
+    
+
 
   
 </Layout>
