@@ -9,7 +9,7 @@ date: "2024-05-09"
 After difficulties at work and various illnesses (gout) I had a heart test called a catheterization. They use a thin flexible tube that is inserted into the femoral artery in the groin - and up into your heart. Ultimately I had 90% blockage in the main artery (the widow maker [^1]). I was told heart surgery was 
 my only option.
 
-  > The Widow maker is a great movie. Get a CAC scan. It is the best, cheapest test you can get to diagnose heart disease. 
+  > The Widow maker is a great movie. Get a CAC scan. It is the best, cheapest test you can get to diagnose heart disease
 
 
 I'm a veteran - and the surgery was done at the VA. The care I received was way beyond expectations. But there were some complications. The surgery lasted 8 hours instead of 4. A quad bypass was scheduled but only a triple was completed. I learned years later that I defibbed (died) on the table. Afterwards I had a few issues, like kidney disfunction. All in all, I'm grateful.
