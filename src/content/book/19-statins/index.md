@@ -137,7 +137,7 @@ Key points about LMHRs:
 
 The body tightly regulates cholesterol levels, with most being produced endogenously rather than obtained from diet. The liver typically adjusts its production based on dietary intake. [^7]
 
-While high levels of certain cholesterol fractions (particularly oxidized LDL) are associated with cardiovascular risk, it's important to recognize cholesterol's vital physiological roles. The debate in medical science isn't about whether cholesterol is necessary (it absolutely is), but rather about what constitutes optimal levels and how to balance cardiovascular risk with the body's need for this essential molecule.
+While high levels of certain cholesterol fractions (particularly oxidized LDL) are associated with cardiovascular risk, it's important to recognize cholesterol's vital physiological roles. The debate in medical science isn't about whether cholesterol[^8] is necessary (it absolutely is), but rather about what constitutes optimal levels and how to balance cardiovascular risk with the body's need for this essential molecule.
 
   >  💡 Tip:   Instead of seeing if your LDL is high (and getting a statin) look at your Triglyceride / HDL level. 
   >   If it is 2 or less (100/50) - you are golden. 
@@ -158,4 +158,6 @@ While high levels of certain cholesterol fractions (particularly oxidized LDL) a
 [^6]: Understanding Health Risks: Relative vs Absolute Risk https://atlasbiomed.com/book/absolute-vs-relative-risk/
 
 [^7]: Looking at the Benefit of Statins from a Different Perspective https://www.aafp.org/pubs/afp/issues/2010/1001/p741.html
+
+[^8]: Relative vs Absolute risk marketing speak https://youtu.be/QfsOCw7EU8U?si=DjNTJ5MJZ30j2Dvi&t=494
 
