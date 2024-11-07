@@ -22,7 +22,13 @@ But as with all tales of rapid advancement, there lurked a darker side. Seed oil
 
 2. **Imbalanced Ratios**: Our bodies thrive on a delicate balance of omega-3 and omega-6 fatty acids. In the days of the caveman, this balance was naturally achieved through a diet rich in fish, nuts, and wild game. Today, however, the prevalence of seed oils has skewed this ratio heavily towards omega-6, tipping the scales towards chronic health issues.
 
-3. **Processed Pandemonium**: The extraction of seed oils typically involves high heat and chemical solvents, processes that can damage the oil and create harmful byproducts. These industrial methods strip the oils of any beneficial nutrients, leaving behind a substance that’s about as natural as a caveman using an iPhone.
+3. **Industrial Processing Nightmare**: The extraction of seed oils is a harsh industrial process that would make our ancestors recoil in horror:
+   - First, seeds are heated to temperatures up to 230°F (110°C)
+   - Then, they're processed with hexane, a neurotoxic petroleum-based solvent
+   - The oils are then treated with more chemicals to deodorize and neutralize their rancid smell
+   - Finally, they're bleached and artificially colored to look appetizing
+
+   This aggressive processing creates harmful compounds like aldehydes and trans fats, while destroying any naturally occurring nutrients. The result? A highly processed industrial product that bears little resemblance to any traditional food source.
 
 ## How to Dodge the Seed Oil Bullet
 
