@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+h2 {
+  @apply text-2xl font-bold;
+}
+
 section#article img {
   filter: brightness(10%);
   position: absolute;
