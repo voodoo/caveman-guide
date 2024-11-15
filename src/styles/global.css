@@ -5,6 +5,9 @@
 h2 {
   @apply text-2xl font-bold;
 }
+body {
+  @apply text-xl;
+}
 
 section#article img {
   filter: brightness(10%);
