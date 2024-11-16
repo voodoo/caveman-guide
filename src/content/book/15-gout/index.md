@@ -5,11 +5,11 @@ date: "2024-03-21"
 ---
 
 
-## The apple fritter connection
+## The Apple Fritter connection
 
-No, really! 
+No, no, not the Apple Fritter!
 
-Back before my surgery, talking to the VA doc - she was adamant that the reason I had gout was from "purine foods" - meat, organ meats or alcohol food. She was certain.  I was perplexed because I did not have much, if any, of those things.
+Back before my surgery, talking to the VA doc - she was adamant that the reason I had gout was from "purine foods" - meat, organ meats or alcohol food. She was certain.  I was perplexed because I did not eat much, if any, of those things.
 
 However, emerging research and clinical observations are challenging this long-held belief. This chapter proposes a controversial yet compelling argument: that foods like apple fritters - and their constituent ingredients - may be the real drivers of gout in our modern diet.
     
