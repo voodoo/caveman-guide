@@ -1,0 +1,4 @@
+# pagefind.yml
+source: dist
+excludes:
+  - blog/*
