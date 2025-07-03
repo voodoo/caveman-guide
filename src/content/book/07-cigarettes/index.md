@@ -10,7 +10,6 @@ You may have not noticed but big cigarette has taken over big food.
 Gone are the days when scientists carefully crafted the perfect, addictive cigarette - now they have moved on to
 creating addicting processed food.
 
-Tobacco companies indeed play a significant role in shaping the modern processed food landscape, particularly in the United States. Here are the key points:
 
 ## Tobacco Companies' Influence on Food Industry
 
