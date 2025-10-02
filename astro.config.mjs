@@ -14,4 +14,14 @@ export default defineConfig({
       theme: "css-variables",
     },
   },
+  server: {
+    host: "0.0.0.0",
+    port: 5000,
+  },
+  vite: {
+    server: {
+      host: "0.0.0.0",
+      port: 5000,
+    },
+  },
 });
