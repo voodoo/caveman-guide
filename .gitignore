@@ -22,3 +22,13 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# pagefind output
+pagefind/
